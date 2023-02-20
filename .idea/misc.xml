@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/P1/44-coa2021-programming01/pom.xml" />
+        <option value="$PROJECT_DIR$/P2/46-coa2021-programming02/pom.xml" />
+        <option value="$PROJECT_DIR$/P3/47-coa2021-programming03/pom.xml" />
+        <option value="$PROJECT_DIR$/P4/49-coa2021-programming04/pom.xml" />
+        <option value="$PROJECT_DIR$/P5/57-coa2021-programming05/pom.xml" />
+        <option value="$PROJECT_DIR$/P6/70-coa2021-programming06/pom.xml" />
+        <option value="$PROJECT_DIR$/P7/81-coa2021-programming07/pom.xml" />
+        <option value="$PROJECT_DIR$/P8/91-coa2021-programming08/pom.xml" />
+        <option value="$PROJECT_DIR$/P9/93-coa2021-programming09/pom.xml" />
+        <option value="$PROJECT_DIR$/P10/121-coa2021-programming10/pom.xml" />
+        <option value="$PROJECT_DIR$/P11/123-coa2021-programming11/pom.xml" />
+        <option value="$PROJECT_DIR$/P12/126-coa2021-programming12/pom.xml" />
+        <option value="$PROJECT_DIR$/P13/130-coa2021-programming13/pom.xml" />
+        <option value="$PROJECT_DIR$/P9-repair/118-coa2021-programming09_update/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
